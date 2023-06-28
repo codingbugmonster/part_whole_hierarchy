@@ -63,4 +63,4 @@ After download, make sure that the files are unziped into ./tmp_data directory
 
 By running: run_simulation.ipynb, you can reproduce most of the figure in the paper. Besides, you can generate the animation of the whole dataflow like above.
 
-<img src="images/image-20221116111128033.png" alt="image-20221116111128033" style="zoom: 33%;" />
+<img src="image/images3.png" alt="images3" style="zoom: 33%;" />
