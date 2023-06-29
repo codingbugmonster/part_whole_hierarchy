@@ -7,19 +7,22 @@
 
 The example video of parsing process (on each dataset) is as follows (each subplot shows the evolution of the variables in the right figure):
 
-https://github.com/codingbugmonster/part_whole_hierarchy/assets/106099997/b4b5d916-05fe-439c-9562-d4d8d33081e1
+[https://github.com/codingbugmonster/part_whole_hierarchy/assets/106099997/b4b5d916-05fe-439c-9562-d4d8d33081e1](https://github.com/codingbugmonster/part_whole_hierarchy/assets/134407088/eacc880e-90d7-4bed-ad7e-a7830a080f73)
 
 <video src=".//images//SHOPs.mp4"></video>
 
-https://github.com/codingbugmonster/part_whole_hierarchy/assets/106099997/ec8a2d13-575f-4490-9cac-b7c7d14f4f19
+[https://github.com/codingbugmonster/part_whole_hierarchy/assets/106099997/ec8a2d13-575f-4490-9cac-b7c7d14f4f19](https://github.com/codingbugmonster/part_whole_hierarchy/assets/134407088/84eaee63-460f-47ec-868a-6c40b918e7b9
+)
 
 <video src=".//images//Squares.mp4"></video>
 
-https://github.com/codingbugmonster/part_whole_hierarchy/assets/106099997/16ec9749-5399-4a7b-9984-e1d68507850d
+[https://github.com/codingbugmonster/part_whole_hierarchy/assets/106099997/16ec9749-5399-4a7b-9984-e1d68507850d](https://github.com/codingbugmonster/part_whole_hierarchy/assets/134407088/5554dcaa-5ffd-400a-b338-a33efea705ef
+)
 
 <video src=".//images//Ts.mp4"></video>
 
-https://github.com/codingbugmonster/part_whole_hierarchy/assets/106099997/e490cc5f-40ea-463e-92b1-99ab30dc4d9c
+[https://github.com/codingbugmonster/part_whole_hierarchy/assets/106099997/e490cc5f-40ea-463e-92b1-99ab30dc4d9c](https://github.com/codingbugmonster/part_whole_hierarchy/assets/134407088/1d9cb068-9ae9-4631-a237-1aab3f10cbf1
+)
 
 <video src=".//images//Double-MNIST.mp4"></video>
 
