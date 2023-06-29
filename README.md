@@ -62,8 +62,8 @@ https://drive.google.com/file/d/1-K9wln8XPjzNAMDnJS403NLFmprmBkhX/view?usp=shari
 
 After download, make sure that the files are unziped into ./tmp_data directory
 
-#### 2.2.3 run Simulation
+#### 2.2.3 run simulation
 
-By running: run_simulation.ipynb, you can reproduce most of the figure in the paper. Besides, you can generate the animation of the whole dataflow like above.
+By running: run_simulation.ipynb, you can reproduce most of the figure in the paper (examples shown below). Besides, you can generate the animation of the whole dataflow like above.
 
 <img src="image/images3.png" alt="images3" style="zoom: 33%;" />
