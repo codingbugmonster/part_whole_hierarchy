@@ -7,7 +7,7 @@
 
 The example video of parsing process (on each dataset) is as follows (each subplot shows the evolution of the variables in the right figure):
 
-[https://github.com/codingbugmonster/part_whole_hierarchy/assets/106099997/b4b5d916-05fe-439c-9562-d4d8d33081e1](https://github.com/codingbugmonster/part_whole_hierarchy/assets/134407088/eacc880e-90d7-4bed-ad7e-a7830a080f73)
+[https://github.com/codingbugmonster/part_whole_hierarchy/assets/106099997/b4b5d916-05fe-439c-9562-d4d8d33081e1](https://github.com/codingbugmonster/part_whole_hierarchy/assets/134407088/23d0cc97-d78c-49d5-a8f1-0f3ed0c51d4c)
 
 <video src=".//images//SHOPs.mp4"></video>
 
