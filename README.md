@@ -11,7 +11,7 @@ The example video of parsing process (on each dataset) is as follows (each subpl
 
 <video src=".//images//SHOPs.mp4"></video>
 
-[https://github.com/codingbugmonster/part_whole_hierarchy/assets/106099997/ec8a2d13-575f-4490-9cac-b7c7d14f4f19](https://github.com/codingbugmonster/part_whole_hierarchy/assets/134407088/84eaee63-460f-47ec-868a-6c40b918e7b9
+[https://github.com/codingbugmonster/part_whole_hierarchy/assets/106099997/ec8a2d13-575f-4490-9cac-b7c7d14f4f19](https://github.com/codingbugmonster/part_whole_hierarchy/assets/134407088/76ae6d0a-e83b-4b7e-8c48-4edf5379f44c
 )
 
 <video src=".//images//Squares.mp4"></video>
