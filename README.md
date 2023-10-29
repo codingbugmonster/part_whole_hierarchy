@@ -22,7 +22,7 @@ The example video of parsing process (on each dataset) is as follows (each subpl
 
 <video src=".//images//Ts.mp4"></video>
 
-[https://github.com/codingbugmonster/part_whole_hierarchy/assets/106099997/e490cc5f-40ea-463e-92b1-99ab30dc4d9c](https://github.com/codingbugmonster/part_whole_hierarchy/assets/134407088/1d9cb068-9ae9-4631-a237-1aab3f10cbf1
+[https://github.com/codingbugmonster/part_whole_hierarchy/assets/106099997/e490cc5f-40ea-463e-92b1-99ab30dc4d9c](https://github.com/codingbugmonster/part_whole_hierarchy/assets/134407088/dd6abe63-8cbd-468d-bb35-bd61abef2657
 )
 
 <video src=".//images//Double-MNIST.mp4"></video>
